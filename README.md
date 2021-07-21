@@ -1,2 +1,2 @@
-# zelda
-A game of Zelda in JavaScript using Kaboom.js
+# zelda-kaboom.js
+Zelda using Kaboom.js
