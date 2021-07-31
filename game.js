@@ -6,6 +6,10 @@ kaboom({
   clearColor: [0, 0, 1, 1],
 })
 
+
+
+
+
 // Speeds
 const MOVE_SPEED = 120
 const SLICER_SPEED = 100
